@@ -67,6 +67,8 @@ Também desenvolvo aplicações web MVC e serviços Windows com ASP.NET Core.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
 </div>
 
+<img src="https://raw.githubusercontent.com/GiovannaRb/GiovannaRb/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
