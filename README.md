@@ -2,10 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Giovanna, sou desenvolvedora FullStack, com foco principal em .NET e C#. Tenho experiência com C# e ASP.NET Core, desenvolvendo aplicações e APIs Web, utilizando ORMs como Entity Framework Core e Dapper para manipulação eficiente de dados.
-Domino SQL Server, principalmente em consultas e manipulação de dados utilizando a linguagem SQL.
-No front-end, trabalho na construção de interfaces dinâmicas e responsivas com HTML, CSS, JavaScript e Razor Pages, além de utilizar frameworks como Bootstrap e Tailwind.
-Também desenvolvo aplicações web MVC e serviços Windows com ASP.NET Core. </p>
+<p align="left"> Meu nome é Giovanna, sou desenvolvedora FullStack, com foco principal em .NET e C#. Tenho experiência com C#, ASP.NET Core, SQL Server, Entity Framework, Dapper, JavaScript, Bootstrap, Tailwind, APIs e aplicações web dinâmicas. Minhas Hard Skills estão listadas abaixo caso queira conhecer mais sobre o meu perfil. </p>
 
 ###
 
