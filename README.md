@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"> Meu nome é Giovanna e sou desenvolvedora Full Stack, com foco principal em .NET e C#. Tenho experiência no desenvolvimento de aplicações Web e APIs RESTful. <br> Aqui você encontrará alguns dos meus projetos! </p>
+<p align="left"> Meu nome é Giovanna e sou desenvolvedora Full Stack, com foco principal em .NET e C#. Tenho experiência no desenvolvimento de aplicações Web e APIs RESTful. Aqui você encontrará alguns dos meus projetos! </p>
 
 ###
 
