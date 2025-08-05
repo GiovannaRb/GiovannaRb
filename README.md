@@ -31,10 +31,7 @@
 
 <div align="right">
   <img height="200" src="https://media1.tenor.com/m/KLAHPW3-BaQAAAAC/loading-error.gif"  />
-</div>
-
 ###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
   <img width="12" />
@@ -55,4 +52,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+</div>
 </div>
