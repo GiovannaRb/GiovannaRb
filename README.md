@@ -48,7 +48,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
 </div>
-
-<div align="right">
-  <img height="200" src="https://media1.tenor.com/m/KLAHPW3-BaQAAAAC/loading-error.gif"  />
-  </div>
