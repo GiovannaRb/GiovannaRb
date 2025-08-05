@@ -27,7 +27,11 @@
 
 ###
 
-<h2 align="left">Tecnologias</h2>
+<h2 align="left">Tecnologias</h2> 
+
+<div align="right">
+  <img height="200" src="https://media1.tenor.com/m/KLAHPW3-BaQAAAAC/loading-error.gif"  />
+</div>
 
 ###
 
