@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"> Meu nome é Giovanna, sou desenvolvedora FullStack, com foco principal em .NET e C#. Tenho experiência com C#, ASP.NET Core, SQL Server, Entity Framework, Dapper, JavaScript, Bootstrap, Tailwind, APIs e aplicações web dinâmicas. Minhas Hard Skills estão listadas abaixo caso queira conhecer mais sobre o meu perfil. </p>
+<p align="left"> Meu nome é Giovanna e sou desenvolvedora Full Stack, com foco principal em .NET e C#. Tenho experiência no desenvolvimento de aplicações Web e APIs RESTful. <br> Aqui você encontrará alguns dos meus projetos! </p>
 
 ###
 
